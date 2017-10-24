@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54108" started-at="2017-10-24T03:50:21Z" finished-at="2017-10-24T03:51:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54108" started-at="2017-10-24T03:50:21Z" finished-at="2017-10-24T03:51:15Z">
+      <class name="TestAppium">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestAppium@6767c1fc]" name="setup" is-config="true" duration-ms="51605" started-at="2017-10-24T09:20:21Z" finished-at="2017-10-24T09:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="appiumExampleTest()[pri:0, instance:TestAppium@6767c1fc]" name="appiumExampleTest" duration-ms="1719" started-at="2017-10-24T09:21:12Z" finished-at="2017-10-24T09:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumExampleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestAppium@6767c1fc]" name="tearDown" is-config="true" duration-ms="768" started-at="2017-10-24T09:21:14Z" finished-at="2017-10-24T09:21:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestAppium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
